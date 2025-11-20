@@ -1,0 +1,1 @@
+streamlit\nyfinance\nplotly\npandas\nnumpy\nscikit-learn\njoblib\ntensorflow
