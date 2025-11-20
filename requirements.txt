@@ -1,1 +1,8 @@
-streamlit\nyfinance\nplotly\npandas\nnumpy\nscikit-learn\njoblib\ntensorflow
+streamlit
+yfinance
+plotly
+pandas
+numpy
+scikit-learn
+joblib
+tensorflow-cpu
