@@ -125,4 +125,4 @@ with tabs[4]:
     st.download_button('Download snapshot as Excel', xlsx_bytes, file_name=f'{symbol}_snapshot.xlsx', mime='application/vnd.openxmlformats-officedocument.spreadsheetml.sheet')
 
 st.markdown('---')
-st.markdown('**Notes:** Real data via Yahoo Finance. Refresh data only when you click "Refresh Data".')
+st.markdown('**Notes:** Real data via Yahoo Finance. Refresh data only when you click "Refresh Data, Developed By Shivraj".')
