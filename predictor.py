@@ -1,6 +1,6 @@
 
 import numpy as np
-
+import pandas as pd
 def compute_support_resistance(df, lookback=60):
     highs = df['High'].tail(lookback)
     lows = df['Low'].tail(lookback)
