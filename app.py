@@ -10,7 +10,7 @@ import ml_predict_lstm, ui_helpers
 import plotly.graph_objects as go
 
 st.set_page_config(page_title='Stock Dashboard — Pro Advice', layout='wide')
-st.title('Stock Dashboard — Professional Long & Medium Term Advice')
+st.title('Nifty50 AI Powered — Long & Medium Term Advisor')
 
 with st.sidebar:
     symbol = st.text_input('Stock (smart search)', value='TCS')
